@@ -1,0 +1,22 @@
+[
+	{
+		"Nombre": "Imagenes",
+		"Extensiones": [ ".jpg", ".png", ".gif" ],
+		"CarpetaDestino": "Imagenes"
+	},
+	{
+		"Nombre": "Documentos",
+		"Extensiones": [ ".pdf", ".docx", ".txt" ],
+		"CarpetaDestino": "Documentos"
+	},
+	{
+		"Nombre": "Instaladores",
+		"Extensiones": [ ".exe", ".msi" ],
+		"CarpetaDestino": "Instaladores"
+	},
+	{
+		"Nombre": "Comprimidos",
+		"Extensiones": [ ".zip", ".rar", ".7z" ],
+		"CarpetaDestino": "Comprimidos"
+	}
+]

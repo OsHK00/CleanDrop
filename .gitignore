@@ -1,0 +1,30 @@
+# Build artifacts
+bin/
+obj/
+publish/
+out/
+artifacts/
+
+# VS / Rider local settings
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+
+# Temporary files
+*.tmp
+*.temp
+
+# DLLs & EXEs
+*.dll
+*.exe
+*.pdb
+
+# Runtime cache
+.nuget/

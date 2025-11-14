@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CleanDrop.Console/CleanDrop.Console.csproj" Id="bc456119-1c57-40c9-8fff-1dd0786472d3" />
+  <Project Path="CleanDrop.Core\CleanDrop.Core.csproj" />
+  <Project Path="TrayApp/TrayApp.csproj" Id="db94ed8f-ce6f-44ca-9188-910ed66c1d50" />
+</Solution>
